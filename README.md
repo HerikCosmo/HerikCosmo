@@ -7,7 +7,7 @@
 
 * I'm currently studying web development.
 
-* I like to face challenges and solve problems, making life more! simple :smile:
+* I like to face challenges and solve problems, making life more simple! :smile:
 
 * I already studied about **Python**, **PHP** e **MySql**.
 
