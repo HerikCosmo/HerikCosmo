@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my github! 
+### Welcome to my GitHub! :sunglasses:
 
 <hr>
 
@@ -18,9 +18,10 @@
 <hr>
 
 ### Contact:
-<a href="maito: herikcosmo.m@gmail.com">
+<a href="maito: herikcosmo.m@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&message=herikcosmo.m@gmail.com&color=EA4335&label=&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/herik-martins-3194b4208" target="_blank">
   <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&message=LinkedIn&color=0A66C2&label=&logoColor=white&link=https://www.linkedin.com/in/herik-martins-3194b4208">
 </a>
