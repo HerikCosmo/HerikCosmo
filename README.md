@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=html5&color=white&label=)
 <!--
 **Herikkjk/herikkjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
