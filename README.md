@@ -9,7 +9,7 @@
 
 * I like to face challenges and solve problems, making life more simple! :smile:
 
-* I already studied about **Python**, **PHP** e **MySql**.
+* I already studied about **Python**, **PHP** and **MySql**.
 
 
 ### :hammer: Languages:
