@@ -5,7 +5,7 @@
 ### About me: 
 * I'm Herik Cosmo, I live in Ceará, Brazil.
 
-* I'm currently studying web development.
+* I'm currently studying web development with **HTML5**, **CSS3** and **JavaScript**.
 
 * I like to face challenges and solve problems, making life more simple!
 
