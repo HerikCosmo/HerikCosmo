@@ -26,4 +26,4 @@
   <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&message=LinkedIn&color=0A66C2&label=&logoColor=white&link=https://www.linkedin.com/in/herik-martins-3194b4208">
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herikkjk&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Herikkjk&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerikCosmo&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HerikCosmo&show_icons=true&theme=tokyonight) 
