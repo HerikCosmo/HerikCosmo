@@ -7,7 +7,7 @@
 
 * Estudando sobre Desevolvimento Web com **HTML5**, **CSS3** and **JavaScript**.
 
-* Também estudo sobre **Python**, **PHP** and **MySql**.
+* Também estudo sobre **Python**, **PHP** e **MySql**.
 
 
 ### :hammer: Linguagens:
