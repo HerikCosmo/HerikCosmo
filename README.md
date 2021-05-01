@@ -3,7 +3,7 @@
 <hr>
 
 ### Sobre Mim: 
-* Meu nome é Herik e tenho 18 anos.
+* Meu nome é Herik, tenho 18 anos e sou fascinado pelo mundo da tecnologia.
 
 * Focado no Desenvolvimento Web com **HTML5**, **CSS3** and **JavaScript**.
 
