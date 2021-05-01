@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/herik-martins-3194b4208" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&message=Herik Martins&color=0A66C2&label=&logoColor=white&link=https://www.linkedin.com/in/herik-martins-3194b4208">
+  <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&message=Herik%20Martins&color=0A66C2&label=&logoColor=white&link=https://www.linkedin.com/in/herik-martins-3194b4208">
 </a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HerikCosmo&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herikCosmo&layout=compact&&theme=tokyonight) 
