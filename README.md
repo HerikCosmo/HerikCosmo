@@ -2,7 +2,7 @@
 
 <hr>
 
-### Cursando Engenharia de Software na UFC
+### Cursando Engenharia de Software.
 ### Focado no Desenvolvimento Web com **HTML5**, **CSS3** and **JavaScript**.
 
 ### Também estudo sobre **Python**, **Node.js**, **MySql** e **SQLite**.
