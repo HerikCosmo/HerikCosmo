@@ -2,7 +2,6 @@
 
 <hr>
 
-### Cursando Engenharia de Software.
 ### Estudos com foco no Back-end com NodeJS.
 
 ### :hammer: Tecnologias:
