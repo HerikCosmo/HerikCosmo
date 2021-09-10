@@ -4,7 +4,16 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerikCosmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikCosmo&layout=compact&langs_count=16&theme=tokyonight"/>
 
 ### :hammer: Tecnologias:
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML5&color=E34F26&label=&logoColor=white) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&message=CSS3&color=1572B6&label=) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&message=Javascript&color=F7DF1E&label=&logoColor=black) ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=python&color=3776AB&label=&logoColor=white) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=Node.js&logoColor=white&message=Node.js&color=339933&label=) ![MySql](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=mysql&color=4479A1&label=&logoColor=white) ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&logo=sqlite&logoColor=white&message=sqlite&color=003B57&label=)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+<br>
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <hr>
 
