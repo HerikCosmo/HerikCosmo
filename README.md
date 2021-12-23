@@ -1,7 +1,7 @@
 ## Bem vindo ao meu GitHub! :sunglasses:
 
 ### Estudos com foco no Desenvolvimento Web.
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerikCosmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikCosmo&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerikCosmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikCosmo&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 ### :hammer: Tecnologias:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
