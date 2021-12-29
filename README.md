@@ -1,6 +1,6 @@
-## Bem vindo ao meu GitHub! :sunglasses:
+## Bem vindo ao meu GitHub!
 
-### Estudos com foco no Desenvolvimento Web.
+### Estudante de desenvolvimento web.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerikCosmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikCosmo&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 ### :hammer: Tecnologias:
